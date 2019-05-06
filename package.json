@@ -1,7 +1,7 @@
 {
-  "name": "esy-fribidi-1.0.5",
-  "version": "0.0.000",
-  "description": "fribidi-1.0.5 packaged for esy",
+  "name": "esy-fribidi",
+  "version": "1.0.5000",
+  "description": "fribidi packaged for esy",
   "esy": {
     "buildsInSource": true,
     "build": [
