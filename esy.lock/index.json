@@ -1,0 +1,19 @@
+{
+  "checksum": "0cc961f41dbf4ff5ab5654751a4ba36e",
+  "root": "esy-fribidi-1.0.5@link-dev:./package.json",
+  "node": {
+    "esy-fribidi-1.0.5@link-dev:./package.json": {
+      "id": "esy-fribidi-1.0.5@link-dev:./package.json",
+      "name": "esy-fribidi-1.0.5",
+      "version": "link-dev:./package.json",
+      "source": {
+        "type": "link-dev",
+        "path": ".",
+        "manifest": "package.json"
+      },
+      "overrides": [],
+      "dependencies": [],
+      "devDependencies": []
+    }
+  }
+}
