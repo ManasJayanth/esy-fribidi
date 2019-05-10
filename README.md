@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/prometheansacrifice/esy-packages/_apis/build/status/prometheansacrifice.esy-fribidi?branchName=master)](https://dev.azure.com/prometheansacrifice/esy-packages/_build/latest?definitionId=28&branchName=master)
+
 # GNU FriBidi
 
 The Free Implementation of the [Unicode Bidirectional Algorithm].
